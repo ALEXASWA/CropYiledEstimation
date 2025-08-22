@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ee-alexaswan",
+  "private_key_id": "3a44991661af32b5af09a757c5001f8c7880706e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCN7QEd2LOp6bBU\nuKpUxsvP/wAY/JCHUVWFN6sqa7vda6Ha+3JQHRuIQ+HC59VLgCUDMnp14uNPMrtL\nXR+lwfQcZ3WB9rehgtEqnehifii2Z3Rk9vhfYKZdXFg+KChi4oRtXEVS0gG1Bpn1\ncluKI4W227uY5p1B2asrYSNvHp9FG3Uouocq0Vao8xbOceFCAF1tRLS+9c3EnYJM\nvjIXqdm3vzbVUKYeLwNauakr7QQXCYs+SvrmWhW7NAAHcTJFli9zHI/WBPkP0e1N\nmNg+TjUDqM1sxsKB7z35rKUWF2b7obgv1ZXkcoQ+YqnY6snN0DZWH5/D/umgUtYG\n7Dyv4PWvAgMBAAECggEAJyPAxpPf/FBLhhnFM4r9YxeOVdW1H/RAsvPmutSqIwaP\nRN5KKKjWUm5yALfBnUgyLN8LYZ5YFJvHhiGg3CwQX5Lyl4xMGPkEKQ4SK7NiE+eU\n9FEdruPvDVktprqZZKfWYHhtT8lFmkA/Ti6i6wYf1o1jf2e9346hQ13PEVJvFvXx\n4uqPpHQwok5znAXG6JOr6NcG4ham+6t0t/SVk5Gj7qFw8b9SDDJgXt+OW/76+Pcy\nl+2xifsoZYkdym1XRiSypmiJGIOc8faprTVrRalxmnzGlhPKQ/tq4bGI7CxEo1X7\n3ltyovzMyC+MiGKlsCUNgLI+x+sCqf4h7QIuVyD5lQKBgQDCOJBZ+DQMPd0axybu\n1BW/oXguE5HUzhxIMsT29pucc2Gm9/0C7rHkbsEw2kmB+gs6kKHcdA+y7GNd9M15\nMVv/2UlWaqf61RKX/1TRjRGWQ6dGf+iGSWFyki1/MJ92R0UVv+7v7ioV3NsryXOK\nZLszLua6hQ1UicBevK2WGdS4bQKBgQC7EgokmYczOWOQYvktTkIINoOpSu45FJyv\nqsdi1Gi4rXBM5latuTs79Iiz31AqW8u/WZkXpvNyW41XL2JhO1JGgNCz9jwpHj9D\nkuBsJpJNxfFLKvWdo8LyxcpIB5La8lJ9a7X+ZCZefR3moxH/6EvMTiDYPZusmduM\nW4flmy2NCwKBgGq+Ub/Q5TIxMfsMp34tfAKFSRrx0H2IBg08MfqVkPLMi0gMFbdt\n3sFwiadC4ZGZDmDSqtMRyqsItpgl+mP4V9rm3iKrncUDJCP7xe8hvB+88QuTMwXT\nAMbKRk0YORv1kaehhD3DxMedSavoHSNbt3Mq/M5YX/otd1faFQFhEwOFAoGAO3ag\ngsHKmB3F6D+NtTkLBFFPyKBo2PwUUkKW3nNmVk3LRKZzJwWaLpSsX4C8mrpTKZ/x\nafNHrzIq22vUedPBc2e+73V16hwTQAeQDtCz8MTazmn5aQKFFWaJxhuiMraUQgna\n7+Il0CM1PfrX3eCZN3geOJ5cvaCqiRMPP4z0DcECgYBibb35TuZyRaTYyz6oWe4A\nSdQL5V4BWVU59v+HJwA6MVRnMgP2u5Mnc5CKQa74EFn8Xb9qoYbwQ9ow1X9lKV2X\nAaK0nK1LOg3f23Gpih5pCZL79Fa8U5JLQIqRqE4xfBytYFxhlPbcB8wqwTqae9R/\ni84Mk7xnRd+hXIGY65BvEQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cropyield@ee-alexaswan.iam.gserviceaccount.com",
+  "client_id": "110207077881680144099",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cropyield%40ee-alexaswan.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
